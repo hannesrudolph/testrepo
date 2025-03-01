@@ -31,7 +31,7 @@ const app = testProject.init({
   logLevel: 'info'
 });
 
-// Run the application
+// Run the applicationadsfasdfasdf
 app.start();
 ```
 
