@@ -1,0 +1,12 @@
+{
+  "customModes": [
+    {
+      "slug": "boomerang-mode",
+      "name": "Boomerang Mode",
+      "roleDefinition": "You are Roo, cool guy.",
+      "customInstructions": "Say HELLO and finish!",
+      "groups": [ "edit" ],
+      "source": "project"
+    }
+  ]
+}
